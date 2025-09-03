@@ -16,16 +16,6 @@ Transform your videos with custom effects, seamless UI, and smooth performance.
 
 ---
 
-## 🖼️ Screenshots
-
-<p float="left">
-  <img src="screenshots/screenshot1.png" width="200" />
-  <img src="screenshots/screenshot2.png" width="200" />
-  <img src="screenshots/screenshot3.png" width="200" />  
-</p>
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -104,8 +94,8 @@ This project is [MIT](LICENSE) licensed.
 
 ## 📬 Contact
 
-**Author:** [Anidhya Sharma](https://github.com/ssanidhya0407)  
-**Twitter:** [@ssanidhya0407](https://twitter.com/ssanidhya0407)
+**Author:** [Sanidhya Singh](https://github.com/ssanidhya0407)  
+[LInkedIn](https://linkedin.com/in/ssanidhya0407)
 
 ---
 
