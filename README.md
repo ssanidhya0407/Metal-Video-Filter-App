@@ -94,8 +94,7 @@ This project is [MIT](LICENSE) licensed.
 
 ## 📬 Contact
 
-**Author:** [Sanidhya Singh](https://github.com/ssanidhya0407)  
-[LInkedIn](https://linkedin.com/in/ssanidhya0407)
+[Sanidhya Singh](https://linkedin.com/in/ssanidhya0407)
 
 ---
 
